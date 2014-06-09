@@ -1,0 +1,96 @@
+Enter Initial path : D:/Somdeep/PICT
+
+Initial path selected is : D:/Somdeep/PICT
+
+
+birthday.txt	Is file
+DELD	Is directory
+
+CONTENTS OF SUB-DIRECTORY DELD
+4-bit BCD Adder.doc	Is file
+birthday.txt	Is file
+	Duplicate - birthday.txt
+	Path- D:\Somdeep\PICT\DELD\birthday.txt
+	Last Modified- Mon Jun 09 03:52:57 IST 2014
+	File Size - 0 bytes
+Do you wish to delete this duplicate ? 1. Yes 2. No
+2
+DS_1_Code Converters.doc	Is file
+ds_2_Multiplexer.doc	Is file
+ds_3_Demultiplexer.doc	Is file
+
+SUB-DIRECTORY OVER DELD
+
+
+First Year	Is directory
+
+CONTENTS OF SUB-DIRECTORY First Year
+fe_syllabus(2008course)-pict first year.pdf	Is file
+hehe.txt	Is file
+Time Table	Is directory
+
+CONTENTS OF SUB-DIRECTORY Time Table
+be_ss.pdf	Is file
+BE_TT_I.pdf	Is file
+BE_TT_II.pdf	Is file
+Computer Department Faculty Profile  UG Programme  Academic Programme.mht	Is file
+fe II online exam.docx	Is file
+LOL	Is directory
+
+CONTENTS OF SUB-DIRECTORY LOL
+lol2	Is directory
+
+CONTENTS OF SUB-DIRECTORY lol2
+hehe.txt	Is file
+	Duplicate - hehe.txt
+	Path- D:\Somdeep\PICT\First Year\Time Table\LOL\lol2\hehe.txt
+	Last Modified- Mon Jun 09 04:19:03 IST 2014
+	File Size - 55 bytes
+Do you wish to delete this duplicate ? 1. Yes 2. No
+2
+
+SUB-DIRECTORY OVER lol2
+
+
+
+SUB-DIRECTORY OVER LOL
+
+
+se1_ss.pdf	Is file
+se_ss.pdf	Is file
+SE_TT_I.pdf	Is file
+SE_TT_II.pdf	Is file
+soma	Is directory
+
+CONTENTS OF SUB-DIRECTORY soma
+hehe.txt	Is file
+	Duplicate - hehe.txt
+	Path- D:\Somdeep\PICT\First Year\Time Table\soma\hehe.txt
+	Last Modified- Mon Jun 09 04:19:26 IST 2014
+	File Size - 191 bytes
+Do you wish to delete this duplicate ? 1. Yes 2. No
+1
+hi.txt	Is file
+
+SUB-DIRECTORY OVER soma
+
+
+te_ss.pdf	Is file
+TE_TT_I.pdf	Is file
+TE_TT_II.pdf	Is file
+
+SUB-DIRECTORY OVER Time Table
+
+
+
+SUB-DIRECTORY OVER First Year
+
+
+
+
+Duplicate files are : 
+
+
+birthday.txt
+hehe.txt
+hehe.txt
