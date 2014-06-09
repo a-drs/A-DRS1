@@ -1,0 +1,95 @@
+		               		  ***************  A-DRS BIRTHDAY PARADOX EXPERIMENT ***************
+ 
+1) User is requested to enter the number of people taking part in the experiment
+2) To stop the experiment enter the number of people as 0
+3) On termination a summary table will give statsics of the test cases performed
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Enter the number of people: 
+23
+Conclusions after performing 1000 trials for 23 number of people
+ > Trials performed: 1000
+ > Number of trials where birthdays matched: 529
+ > Number of trials where birthdays did not match: 471
+ > Probability of two people having the same birthday: 0.5290
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Enter the number of people: 
+57
+Conclusions after performing 1000 trials for 57 number of people
+ > Trials performed: 1000
+ > Number of trials where birthdays matched: 994
+ > Number of trials where birthdays did not match: 6
+ > Probability of two people having the same birthday: 0.9940
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Enter the number of people: 
+30
+Conclusions after performing 1000 trials for 30 number of people
+ > Trials performed: 1000
+ > Number of trials where birthdays matched: 723
+ > Number of trials where birthdays did not match: 277
+ > Probability of two people having the same birthday: 0.7230
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Enter the number of people: 
+366
+Conclusions after performing 1000 trials for 366 number of people
+ > Trials performed: 1000
+ > Number of trials where birthdays matched: 1000
+ > Number of trials where birthdays did not match: 0
+ > Probability of two people having the same birthday: 1.0000
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Enter the number of people: 
+23
+Conclusions after performing 1000 trials for 23 number of people
+ > Trials performed: 1000
+ > Number of trials where birthdays matched: 507
+ > Number of trials where birthdays did not match: 493
+ > Probability of two people having the same birthday: 0.5070
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Enter the number of people: 
+57
+Conclusions after performing 1000 trials for 57 number of people
+ > Trials performed: 1000
+ > Number of trials where birthdays matched: 986
+ > Number of trials where birthdays did not match: 14
+ > Probability of two people having the same birthday: 0.9860
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Enter the number of people: 
+366
+Conclusions after performing 1000 trials for 366 number of people
+ > Trials performed: 1000
+ > Number of trials where birthdays matched: 1000
+ > Number of trials where birthdays did not match: 0
+ > Probability of two people having the same birthday: 1.0000
+ 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Enter the number of people: 
+0
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+								***** SUMMARY *****
+ 
+	+-----------+--------------+-------------+
+	| Test Case | No of People | Probability |
+	+-----------+--------------+-------------+
+	|     1     |     23	   |    0.529	 |
+	|     2     |     57	   |    0.994	 |
+	|     3     |     30	   |    0.723	 |
+	|     4     |     366	   |    1.0	 |
+	|     5     |     23	   |    0.507	 |
+	|     6     |     57	   |    0.986	 |
+	|     7     |     366	   |    1.0	 |
+	+-----------+--------------+-------------+

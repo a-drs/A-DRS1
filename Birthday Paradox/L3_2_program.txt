@@ -1,0 +1,110 @@
+//PUBLIC CLASS BIRTHDAY
+
+import java.util.HashSet;
+import java.util.Random;
+import java.util.Set;
+
+public class birthday 
+{
+ int match_Y,match_N;
+ public static final Random randGen = new Random();  
+ 
+ birthday()   // Default constructor.
+ {
+  match_Y=0;   // Keep track of trials where matching pair is found and not found.
+  match_N=0;
+ }	 
+ 
+ float simulate(int nPeople, int nTrials) // Returns the probability of two people having the same birthday
+ {                                        // for given n people and n trials.
+  int n = 0;
+  for(int i = 0; i < nTrials; i++) 
+  {
+   if(trial(nPeople))                // For each trial a set backed by a hash table is created and checked at the same time for matches
+	n++;              // Match found.
+   else
+	 match_N++;       // Match not found.
+  }
+  match_Y=n;
+  return (float)n/nTrials;  // Probability = No.of matches found / No.of trials performed.
+ }
+
+ boolean trial(int nPeople)  // Returns true if match found else false.
+ {
+  Set<Integer> birthdays = new HashSet<Integer>(); // Constructs a new, empty set interface backed by hash table. 
+                                                   // The backing HashMap instance has default initial capacity (16) and load factor (0.75).
+  for (int i = 0; i < nPeople; i++) 
+  {
+   int day = randGen.nextInt(365);
+   if (birthdays.contains(day))   // Returns true if the set contains the specified element.
+	return true;
+   birthdays.add(day);  // Adds specified element to the set if not already present.
+  }
+  return false;  // If no match in generated set return false.
+ }
+
+}
+
+//PUBLIC CLASS TESTER
+
+import java.util.*;
+
+public class tester   // Class to perform multiple test cases.
+{
+ static String spaces(int a)  // Function to create spaces required for table formatting.
+ {
+  String str="";
+  for(int i = 0; i<a; i++)
+   str+=" ";
+  return str;
+ }
+	
+ public static void main(String[] args) 
+ {
+  float stastics1[]=new float[50];  // Stores number of people N.
+  int stastics2[]=new int[50];     // Stores probability statistics.
+  int i=0;
+  
+  System.out.println("\t\t\t\t\t\t  ***************  A-DRS BIRTHDAY PARADOX EXPERIMENT ***************");
+  System.out.println(" ");
+  System.out.println("1) User is requested to enter the number of people taking part in the experiment");
+  System.out.println("2) To stop the experiment enter the number of people as 0");
+  System.out.println("3) On termination a summary table will give statsics of the test cases performed");
+  System.out.println(" ");
+    
+  while(true)
+  {
+   birthday B=new birthday();   // Instance of class birthday.
+   int N;
+   float temp;
+   Scanner in=new Scanner(System.in);
+   System.out.print("--------------------------------------------------------------------------------------------");
+   System.out.println("------------------------------------------------------------------------------------------");
+   System.out.println("Enter the number of people: ");
+   N=in.nextInt();
+   if(N==0)          // If N=0 complete processing
+	 break;   
+   System.out.println("Conclusions after performing 1000 trials for "+N+" number of people");	 
+   System.out.println(" > Trials performed: 1000");
+   temp =B.simulate(N,1000);
+   System.out.println(" > Number of trials where birthdays matched: "+B.match_Y);
+   System.out.println(" > Number of trials where birthdays did not match: "+B.match_N);
+   System.out.printf(" > Probability of two people having the same birthday: %.4f\n",temp); 
+   stastics2[i]=N;
+   stastics1[i]=temp;
+   i++;
+   System.out.println(" "); 
+  }
+  System.out.print("--------------------------------------------------------------------------------------------");
+  System.out.println("------------------------------------------------------------------------------------------");
+  System.out.println("\t\t\t\t\t\t\t\t***** SUMMARY *****");
+  System.out.println(" ");
+  System.out.println("\t+-----------+--------------+-------------+");
+  System.out.println("\t|"+spaces(1)+"Test Case"+spaces(1)+"|"+spaces(1)+"No of People"+spaces(1)+"|"+spaces(1)+"Probability"+spaces(1)+"|");
+  System.out.println("\t+-----------+--------------+-------------+");
+  for(int j=0;j<i;j++)
+   System.out.println("\t|"+spaces(4)+" "+(j+1)+" "+spaces(4)+"|"+spaces(4)+" "+stastics2[j]+"\t"+spaces(3)+"|"+spaces(3)+" "+stastics1[j]+"\t |");	  
+  System.out.println("\t+-----------+--------------+-------------+");
+ }
+ 
+}
