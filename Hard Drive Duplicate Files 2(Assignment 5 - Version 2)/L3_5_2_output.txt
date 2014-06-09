@@ -1,0 +1,103 @@
+Enter Initial path : D:/Somdeep/PICT
+
+Initial path selected is : D:/Somdeep/PICT
+
+
+DELD	Is directory
+
+CONTENTS OF SUB-DIRECTORY DELD
+4-bit BCD Adder.doc	Is file
+DS_1_Code Converters.doc	Is file
+ds_2_Multiplexer.doc	Is file
+ds_3_Demultiplexer.doc	Is file
+
+SUB-DIRECTORY OVER DELD
+
+
+First Year	Is directory
+
+CONTENTS OF SUB-DIRECTORY First Year
+birthday.txt	Is file
+fe_syllabus(2008course)-pict first year.pdf	Is file
+hehe.txt	Is file
+Time Table	Is directory
+
+CONTENTS OF SUB-DIRECTORY Time Table
+be_ss.pdf	Is file
+BE_TT_I.pdf	Is file
+BE_TT_II.pdf	Is file
+birthday.txt	Is file
+Computer Department Faculty Profile  UG Programme  Academic Programme.mht	Is file
+fe II online exam.docx	Is file
+LOL	Is directory
+
+CONTENTS OF SUB-DIRECTORY LOL
+hehe.txt	Is file
+lol2	Is directory
+
+CONTENTS OF SUB-DIRECTORY lol2
+
+SUB-DIRECTORY OVER lol2
+
+
+
+SUB-DIRECTORY OVER LOL
+
+
+se1_ss.pdf	Is file
+se_ss.pdf	Is file
+SE_TT_I.pdf	Is file
+SE_TT_II.pdf	Is file
+soma	Is directory
+
+CONTENTS OF SUB-DIRECTORY soma
+hi.txt	Is file
+
+SUB-DIRECTORY OVER soma
+
+
+te_ss.pdf	Is file
+TE_TT_I.pdf	Is file
+TE_TT_II.pdf	Is file
+
+SUB-DIRECTORY OVER Time Table
+
+
+
+SUB-DIRECTORY OVER First Year
+
+
+hehe.txt	Is file
+
+Duplicate Files are : 
+
+Duplicate Filename : birthday.txt
+
+0 D:\Somdeep\PICT\First Year\birthday.txt
+	Size : 0 bytes
+	Last Modified : Mon Jun 09 18:01:44 IST 2014
+1 D:\Somdeep\PICT\First Year\Time Table\birthday.txt
+	Size : 0 bytes
+	Last Modified : Mon Jun 09 18:01:35 IST 2014
+
+Enter which file you desire to delete by specifying it's number, to escape enter any negative value : -1
+
+
+Duplicate Filename : hehe.txt
+
+0 D:\Somdeep\PICT\First Year\hehe.txt
+	Size : 0 bytes
+	Last Modified : Sat Jun 07 01:01:12 IST 2014
+1 D:\Somdeep\PICT\First Year\Time Table\LOL\hehe.txt
+	Size : 0 bytes
+	Last Modified : Mon Jun 09 17:58:01 IST 2014
+2 D:\Somdeep\PICT\hehe.txt
+	Size : 0 bytes
+	Last Modified : Mon Jun 09 18:36:29 IST 2014
+
+Enter which file you desire to delete by specifying it's number, to escape enter any negative value : 2
+
+Enter which file you desire to delete by specifying it's number, to escape enter any negative value : -1
+
+
+Program Complete
