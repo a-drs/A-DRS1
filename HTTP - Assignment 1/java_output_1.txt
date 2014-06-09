@@ -1,0 +1,1985 @@
+							***************  A-DRS WEB ANALYSER ***************
+ 
+Enter the name of the log file: 
+weblog.txt
+
+
+/* It will print entries from 1 till the end */
+
+
+
+
+
+
+
+**************************************************************************** ENTRY 2663 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:44 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  19374 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2664 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/feeds.gif 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  2028 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2665 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/icons.gif 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  3997 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2666 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/sidesep.gif 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  102 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2667 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/widgetsep.png 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  3272 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2668 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/textfield.gif 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  57 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2669 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/menu.gif 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  1326 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2670 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/wp-logo.png 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7838 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2671 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/header_footer.jpg 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  26837 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2672 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/light.gif 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  39289 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2673 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/uploads/2009/03/trek.jpg 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  147712 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2674 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/uploads/2009/04/plot.png 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  80601 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2675 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:45 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/bg.jpg 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  1769 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2676 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:46 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/themes/inove/img/readers.gif 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7128 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2677 **************************************************************************** 
+ 
+ Client IP address: 76.98.127.100 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:27:46 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/favicon.ico 
+    Version: HTTP/1.1 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/ 
+    User agent: Mozilla/5.0(Macintosh;U;IntelMacOSX10_5_6;en-us)AppleWebKit/528.16(KHTML,likeGecko)Version/4.0Safari/528.16 
+ 
+ 
+**************************************************************************** ENTRY 2678 **************************************************************************** 
+ 
+ Client IP address: 66.249.67.84 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:17:32:32 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=%23batt 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  8035 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Googlebot/2.1;+http://www.google.com/bot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2679 **************************************************************************** 
+ 
+ Client IP address: 91.124.57.25 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:17:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-login.php 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  2336 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/wp-login.php 
+    User agent: Mozilla/4.0(compatible;MSIE6.0;Windows98;Win9x4.90) 
+ 
+ 
+**************************************************************************** ENTRY 2680 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:18:58 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  639 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2681 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:18:58 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/logo.png 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  5410 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2682 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:18:58 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/ 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  147444 bytes 
+ HTTP request headers: 
+    Referrer: http://twitter.pbworks.com/Apps 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2683 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:19:00 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/favicon.ico 
+    Version: HTTP/1.1 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2684 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:19:03 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/favicon.ico 
+    Version: HTTP/1.1 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2685 **************************************************************************** 
+ 
+ Client IP address: 91.205.124.6 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:27:16 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/robots.txt 
+    Version: HTTP/1.1 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: YangaWorldSearchBotv1.1/beta(http://www.yanga.co.uk/) 
+ 
+ 
+**************************************************************************** ENTRY 2686 **************************************************************************** 
+ 
+ Client IP address: 91.205.124.6 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:27:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/ 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  147418 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: YangaWorldSearchBotv1.1/beta(http://www.yanga.co.uk/) 
+ 
+ 
+**************************************************************************** ENTRY 2687 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.163 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:27:40 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/?page_id=2 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  14125 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Opera/7.60(WindowsNT5.2;U)[en](IBMEVV/3.0/EAK01AG9/LE) 
+ 
+ 
+**************************************************************************** ENTRY 2688 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.163 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:27:42 -0700] 
+ Request Line: 
+    Method: POST 
+    URL: www.kinneryandrajan.com/wp-comments-post.php 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Opera/7.60(WindowsNT5.2;U)[en](IBMEVV/3.0/EAK01AG9/LE) 
+ 
+ 
+**************************************************************************** ENTRY 2689 **************************************************************************** 
+ 
+ Client IP address: 66.249.67.84 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:28:16 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=flock%202 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  6191 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Googlebot/2.1;+http://www.google.com/bot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2690 **************************************************************************** 
+ 
+ Client IP address: 66.249.67.84 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:31:12 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=%23lostarg 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7653 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Googlebot/2.1;+http://www.google.com/bot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2691 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:39:56 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/ 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  147418 bytes 
+ HTTP request headers: 
+    Referrer: http://twitter.pbworks.com/Apps 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2692 **************************************************************************** 
+ 
+ Client IP address: 66.249.67.84 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:40:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=five%20killers 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  8285 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Googlebot/2.1;+http://www.google.com/bot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2693 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:46:37 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=network+marketing 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  2136 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2694 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:47:06 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=%23network+marketing 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  2140 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=network+marketing 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2695 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.149 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:47:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/?page_id=2 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  14125 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.0(compatible;MSIE6.0;WindowsNT5.1;SV1;.NETCLR1.1.4322) 
+ 
+ 
+**************************************************************************** ENTRY 2696 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.149 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:47:20 -0700] 
+ Request Line: 
+    Method: POST 
+    URL: www.kinneryandrajan.com/wp-comments-post.php 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.0(compatible;MSIE6.0;WindowsNT5.1;SV1;.NETCLR1.1.4322) 
+ 
+ 
+**************************************************************************** ENTRY 2697 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:47:29 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=network 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  2096 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=%23network+marketing 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2698 **************************************************************************** 
+ 
+ Client IP address: 68.42.59.164 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:47:39 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=internet 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  2100 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=network 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT6.0;en-US;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10FBSMTWB 
+ 
+ 
+**************************************************************************** ENTRY 2699 **************************************************************************** 
+ 
+ Client IP address: 194.8.74.220 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:47:54 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/?page_id=2 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  14125 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.0(compatible;MSIE6.0;WindowsNT5.1;TheFreeDictionary.com;.NETCLR1.1.4322;.NETCLR1.0.3705;.NETCLR2.0.50727) 
+ 
+ 
+**************************************************************************** ENTRY 2700 **************************************************************************** 
+ 
+ Client IP address: 194.8.74.220 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:18:47:57 -0700] 
+ Request Line: 
+    Method: POST 
+    URL: www.kinneryandrajan.com/wp-comments-post.php 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.0(compatible;MSIE6.0;WindowsNT5.1;TheFreeDictionary.com;.NETCLR1.1.4322;.NETCLR1.0.3705;.NETCLR2.0.50727) 
+ 
+ 
+**************************************************************************** ENTRY 2701 **************************************************************************** 
+ 
+ Client IP address: 209.85.238.23 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:19:42:00 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/ 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  21934 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: AdsBot-Google(+http://www.google.com/adsbot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2702 **************************************************************************** 
+ 
+ Client IP address: 216.129.119.44 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:13:33 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-trackback.php?p=11 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Twiceler-0.9http://www.cuil.com/twiceler/robot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2703 **************************************************************************** 
+ 
+ Client IP address: 216.129.119.44 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:31:46 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-trackback.php?p=1 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Twiceler-0.9http://www.cuil.com/twiceler/robot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2704 **************************************************************************** 
+ 
+ Client IP address: 209.131.41.49 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:34:30 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/robots.txt 
+    Version: HTTP/1.0 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: YahooFeedSeeker/2.0(compatible;Mozilla4.0;MSIE5.5;http://publisher.yahoo.com/rssguide) 
+ 
+ 
+**************************************************************************** ENTRY 2705 **************************************************************************** 
+ 
+ Client IP address: 209.131.41.49 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:34:33 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/?feed=rss2 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  15099 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: YahooFeedSeeker/2.0(compatible;Mozilla4.0;MSIE5.5;http://publisher.yahoo.com/rssguide;users1;views101) 
+ 
+ 
+**************************************************************************** ENTRY 2706 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:51:24 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/ 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  147746 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2707 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:51:24 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2708 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:51:24 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/logo.png 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2709 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:51:33 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=shawn+johnson 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  6580 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2710 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:51:33 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=shawn+johnson 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2711 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:51:33 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/logo.png 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=shawn+johnson 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2712 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:51:35 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=shawn%20johnson 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7773 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=shawn+johnson 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2713 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:51:35 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/tweets.py?q=shawn%20johnson 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2714 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:52:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/ 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  147746 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=shawn+johnson 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2715 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:52:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2716 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:52:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/logo.png 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2717 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:53:12 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=dwts 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  75834 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2718 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:53:12 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=dwts 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2719 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:53:12 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/logo.png 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=dwts 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2720 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:53:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=dwts 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7552 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=dwts 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2721 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:53:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/tweets.py?q=dwts 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2722 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.163 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:53:42 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/?page_id=2 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  9673 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.0(compatible;MSIE6.0;WindowsNT)::ELNSB50::000061100320025802a00111000000000507000900000000 
+ 
+ 
+**************************************************************************** ENTRY 2723 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.163 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:53:49 -0700] 
+ Request Line: 
+    Method: POST 
+    URL: www.kinneryandrajan.com/wp-comments-post.php 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.0(compatible;MSIE6.0;WindowsNT)::ELNSB50::000061100320025802a00111000000000507000900000000 
+ 
+ 
+**************************************************************************** ENTRY 2724 **************************************************************************** 
+ 
+ Client IP address: 216.129.119.12 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:20:59:25 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/robots.txt 
+    Version: HTTP/1.0 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Twiceler-0.9http://www.cuil.com/twiceler/robot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2725 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:02:50 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=dwts&since=2009-05-04&until=2009-05-19 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7751 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=dwts 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2726 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:02:50 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/tweets.py?q=dwts&since=2009-05-04&until=2009-05-19 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2727 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:03:05 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  269503 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=dwts 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2728 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:03:05 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2729 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:03:05 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/logo.png 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2730 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:03:07 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=adam 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7257 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2731 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:03:07 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/tweets.py?q=adam 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2732 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:03:14 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=adam&since=2009-05-18&until=2009-05-19 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7628 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2733 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:03:14 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/tweets.py?q=adam&since=2009-05-18&until=2009-05-19 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2734 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:04:07 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=adam&since=2009-04-29&until=2009-05-19 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7628 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2735 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:04:07 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/tweets.py?q=adam&since=2009-04-29&until=2009-05-19 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2736 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:04:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/ 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  147736 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2737 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:04:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2738 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:04:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/logo.png 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2739 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:07:30 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  269503 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2740 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:07:30 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2741 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:07:30 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/logo.png 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2742 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:07:32 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=adam 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  7654 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=adam%2Ckris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2743 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:07:33 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/tweets.py?q=adam 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2744 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:07:37 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/wtt.py?query=adam,kris 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2745 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:07:41 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/wtt.py?query=adam,kris 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  265136 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2746 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:09:23 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/wtt.py?query=adam,kris 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  265343 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2747 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:09:23 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/wtt.py?query=adam,kris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2748 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:10:54 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/wtt.py?query=Adam,kris 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  265336 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2749 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:10:54 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/wtt.py?query=Adam,kris 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2750 **************************************************************************** 
+ 
+ Client IP address: 66.249.67.84 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:11:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-content/uploads/2009/02/plot2.png 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Googlebot-Image/1.0 
+ 
+ 
+**************************************************************************** ENTRY 2751 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:11:23 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/wtt.py?query=adam%20lambert 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  118626 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2752 **************************************************************************** 
+ 
+ Client IP address: 70.231.229.80 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:11:24 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/wtt.py?query=adam%20lambert 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-US)AppleWebKit/525.19(KHTML,likeGecko)Chrome/1.0.154.65Safari/525.19 
+ 
+ 
+**************************************************************************** ENTRY 2753 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.149 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:13:19 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/?page_id=2 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  11036 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Opera/8.01(WindowsNT5.1) 
+ 
+ 
+**************************************************************************** ENTRY 2754 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.149 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:13:24 -0700] 
+ Request Line: 
+    Method: POST 
+    URL: www.kinneryandrajan.com/wp-comments-post.php 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Opera/8.01(WindowsNT5.1) 
+ 
+ 
+**************************************************************************** ENTRY 2755 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:26:15 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/robots.txt 
+    Version: HTTP/1.0 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2756 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:26:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=tgif 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  88315 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp/3.0;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2757 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:26:17 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.0 
+ HTTP status code: 304 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=tgif 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp/3.0;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2758 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:21:26:20 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=tgif 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  7746 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=tgif 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp/3.0;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2759 **************************************************************************** 
+ 
+ Client IP address: 66.249.67.84 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:22:11:44 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=joe 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  81970 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Googlebot/2.1;+http://www.google.com/bot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2760 **************************************************************************** 
+ 
+ Client IP address: 58.246.4.62 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:22:40:42 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  639 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/wtt.py?query=adam%20lambert 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-GB;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10 
+ 
+ 
+**************************************************************************** ENTRY 2761 **************************************************************************** 
+ 
+ Client IP address: 58.246.4.62 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:22:40:43 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/wtt.py?query=adam%20lambert 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  117905 bytes 
+ HTTP request headers: 
+    Referrer: http://uk.f863.mail.yahoo.com/dc/blank.html?bn=1277.35&.intl=cn 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-GB;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10 
+ 
+ 
+**************************************************************************** ENTRY 2762 **************************************************************************** 
+ 
+ Client IP address: 58.246.4.62 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:22:40:46 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/favicon.ico 
+    Version: HTTP/1.1 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-GB;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10 
+ 
+ 
+**************************************************************************** ENTRY 2763 **************************************************************************** 
+ 
+ Client IP address: 58.246.4.62 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:22:40:49 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/favicon.ico 
+    Version: HTTP/1.1 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Windows;U;WindowsNT5.1;en-GB;rv:1.9.0.10)Gecko/2009042316Firefox/3.0.10 
+ 
+ 
+**************************************************************************** ENTRY 2764 **************************************************************************** 
+ 
+ Client IP address: 193.47.80.43 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:00:54 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/robots.txt 
+    Version: HTTP/1.1 
+ HTTP status code: 404 
+ Object size:  - bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Exabot/3.0;+http://www.exabot.com/go/robot) 
+ 
+ 
+**************************************************************************** ENTRY 2765 **************************************************************************** 
+ 
+ Client IP address: 193.47.80.43 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:00:58 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/ 
+    Version: HTTP/1.1 
+ HTTP status code: 200 
+ Object size:  21556 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Exabot/3.0;+http://www.exabot.com/go/robot) 
+ 
+ 
+**************************************************************************** ENTRY 2766 **************************************************************************** 
+ 
+ Client IP address: 72.167.232.193 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:01:00 -0700] 
+ Request Line: 
+    Method: HEAD 
+    URL: www.kinneryandrajan.com/wp-cron.php?check=7106ae27ea4c45ab67094da19cc97812 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: WordPress/2.7 
+ 
+ 
+**************************************************************************** ENTRY 2767 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.163 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:19:39 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/?page_id=2 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  14125 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.0(compatible;MSIE6.0;WindowsNT5.1;SV1;.NETCLR1.1.4322;.NETCLR2.0.50727) 
+ 
+ 
+**************************************************************************** ENTRY 2768 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.163 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:19:40 -0700] 
+ Request Line: 
+    Method: POST 
+    URL: www.kinneryandrajan.com/wp-comments-post.php 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.0(compatible;MSIE6.0;WindowsNT5.1;SV1;.NETCLR1.1.4322;.NETCLR2.0.50727) 
+ 
+ 
+**************************************************************************** ENTRY 2769 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:26:25 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/ 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  148211 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp/3.0;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2770 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:26:25 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  639 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/ 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp/3.0;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2771 **************************************************************************** 
+ 
+ Client IP address: 216.129.119.45 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:32:47 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.recipewithme.com/robots.txt 
+    Version: HTTP/1.0 
+ HTTP status code: 404 
+ Object size:  1691 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Twiceler-0.9http://www.cuil.com/twiceler/robot.html) 
+ 
+ 
+**************************************************************************** ENTRY 2772 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:36:51 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/search.py?query=dwts 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  76150 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp/3.0;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2773 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:36:52 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  639 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=dwts 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp/3.0;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2774 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:36:54 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/cgi/tweets.py?q=dwts 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  7809 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/search.py?query=dwts 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp/3.0;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2775 **************************************************************************** 
+ 
+ Client IP address: 74.6.22.103 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:36:54 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.twibuzz.com/style.css 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  639 bytes 
+ HTTP request headers: 
+    Referrer: http://www.twibuzz.com/cgi/tweets.py?q=dwts 
+    User agent: Mozilla/5.0(compatible;Yahoo!Slurp/3.0;http://help.yahoo.com/help/us/ysearch/slurp) 
+ 
+ 
+**************************************************************************** ENTRY 2776 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.149 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:39:18 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/?page_id=2 
+    Version: HTTP/1.0 
+ HTTP status code: 200 
+ Object size:  14125 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.79[en](WindowsNT5.0;U) 
+ 
+ 
+**************************************************************************** ENTRY 2777 **************************************************************************** 
+ 
+ Client IP address: 194.8.75.149 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:39:20 -0700] 
+ Request Line: 
+    Method: POST 
+    URL: www.kinneryandrajan.com/wp-comments-post.php 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: http://www.kinneryandrajan.com/?page_id=2 
+    User agent: Mozilla/4.79[en](WindowsNT5.0;U) 
+ 
+ 
+**************************************************************************** ENTRY 2778 **************************************************************************** 
+ 
+ Client IP address: 216.129.119.44 
+ Client RFC 1413 identity:  - 
+ User ID:  - 
+ Date Time Timezone: [19/May/2009:23:52:12 -0700] 
+ Request Line: 
+    Method: GET 
+    URL: www.kinneryandrajan.com/wp-trackback.php?p=15 
+    Version: HTTP/1.0 
+ HTTP status code: 302 
+ Object size:  0 bytes 
+ HTTP request headers: 
+    Referrer: - 
+    User agent: Mozilla/5.0(Twiceler-0.9http://www.cuil.com/twiceler/robot.html) 
+ 
