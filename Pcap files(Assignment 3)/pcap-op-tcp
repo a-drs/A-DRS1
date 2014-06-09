@@ -1,0 +1,127 @@
+IP packet:
+
+version : 4
+Type of service: 0
+packet length: 178 (bytes)
+IP header length :20
+packet ID: 564
+packet offset: 0
+Upper Layer Protocol: 6
+source IP : 1.1.12.1
+destination IP : 1.1.23.3
+
+	dumping TCP segment:
+	Source port number : 80 
+	Destination port number : 46557 
+	Sequence number (HEX): a6c9af57
+	ACK number (HEX): 1000000 
+	Receiver Window Size : 3967 
+	checkSum : 40387 
+	Urgent pointer : 0 
+
+IP packet:
+
+version : 4
+Type of service: 0
+packet length: 40 (bytes)
+IP header length :20
+packet ID: 30582
+packet offset: 0
+Upper Layer Protocol: 6
+source IP : 1.1.23.3
+destination IP : 1.1.12.1
+
+	dumping TCP segment:
+	Source port number : 46557 
+	Destination port number : 80 
+	Sequence number (HEX): aaf60f0
+	ACK number (HEX): 1000000 
+	Receiver Window Size : 3592 
+	checkSum : 1177 
+	Urgent pointer : 0 
+
+IP packet:
+
+version : 4
+Type of service: 0
+packet length: 40 (bytes)
+IP header length :20
+packet ID: 30583
+packet offset: 0
+Upper Layer Protocol: 6
+source IP : 1.1.23.3
+destination IP : 1.1.12.1
+
+	dumping TCP segment:
+	Source port number : 46557 
+	Destination port number : 80 
+	Sequence number (HEX): aaf60f0
+	ACK number (HEX): 1000000 
+	Receiver Window Size : 3592 
+	checkSum : 1038 
+	Urgent pointer : 0 
+
+IP packet:
+
+version : 4
+Type of service: 0
+packet length: 40 (bytes)
+IP header length :20
+packet ID: 30584
+packet offset: 0
+Upper Layer Protocol: 6
+source IP : 1.1.23.3
+destination IP : 1.1.12.1
+
+	dumping TCP segment:
+	Source port number : 46557 
+	Destination port number : 80 
+	Sequence number (HEX): aaf60f0
+	ACK number (HEX): 1000000 
+	Receiver Window Size : 3454 
+	checkSum : 1176 
+	Urgent pointer : 0 
+
+IP packet:
+
+version : 4
+Type of service: 0
+packet length: 40 (bytes)
+IP header length :20
+packet ID: 30585
+packet offset: 0
+Upper Layer Protocol: 6
+source IP : 1.1.23.3
+destination IP : 1.1.12.1
+
+	dumping TCP segment:
+	Source port number : 46557 
+	Destination port number : 80 
+	Sequence number (HEX): aaf60f0
+	ACK number (HEX): 1000000 
+	Receiver Window Size : 3454 
+	checkSum : 1167 
+	Urgent pointer : 0 
+
+IP packet:
+
+version : 4
+Type of service: 0
+packet length: 40 (bytes)
+IP header length :20
+packet ID: 565
+packet offset: 0
+Upper Layer Protocol: 6
+source IP : 1.1.12.1
+destination IP : 1.1.23.3
+
+	dumping TCP segment:
+	Source port number : 80 
+	Destination port number : 46557 
+	Sequence number (HEX): a6c9afe2
+	ACK number (HEX): 1000000 
+	Receiver Window Size : 3967 
+	checkSum : 726 
+	Urgent pointer : 0 
+
+Number of packets read : 479 packets and total size : 211 Mbs
